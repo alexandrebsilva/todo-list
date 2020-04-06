@@ -1,0 +1,19 @@
+ul{
+    border:1px solid black;
+    padding: 15px;
+    border-radius: 0.5em;
+    box-shadow: 0 0 2px black;
+    width:60%;
+    margin: auto;
+}
+li{
+    margin-bottom: 10px;
+    list-style: none;
+    padding: 6px;
+    cursor:default;
+    padding: 7px;
+    margin: auto;
+}
+li:hover{
+    background-color: rgb(192, 192, 192);
+}
